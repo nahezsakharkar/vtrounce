@@ -8,7 +8,7 @@
               <div class="intro-text">
                 <div class="typed-element">
                   <client-only>
-                    <typewriter class="typewriter" :type-interval="100">
+                    <typewriter :type-interval="100">
                       Hello, we're VTrounce.<br />
                       We're an independent digital agency that
                       <span>GROWS YOUR BUSINESS.</span> <br />

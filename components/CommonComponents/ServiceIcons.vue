@@ -8,7 +8,7 @@
             alt="Marketing Strategy"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Strategy.</h3>
           <p>
             Insight and data-led digital strategies with an actionable roadmap
@@ -28,7 +28,7 @@
             alt="Website Development"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Development.</h3>
           <p>
             Customer-centric UX, design, and build for websites, ecommerce, and
@@ -48,7 +48,7 @@
             alt="Social Media"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Marketing.</h3>
           <p>
             AI-first, growth-focused, omnichannel digital marketing solutions to
@@ -68,7 +68,7 @@
             alt="Content Creation"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Content Creation.</h3>
           <p>
             Production Creativity which includes Photography & Videography with
@@ -88,7 +88,7 @@
             alt="Digital Ads"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Digital Ads.</h3>
           <p>
             Escalate your Vusiness with ads that are seen! We handle Google,
@@ -105,7 +105,7 @@
         <div class="icon">
           <img src="../../Images/Assets/Services/SEO.png" alt="SEO" />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>SEO.</h3>
           <p>
             Keywords Research, Articles, Website Audit, Competitor Analysis.
@@ -124,7 +124,7 @@
             alt="Content Writing"
           />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Content Writing.</h3>
           <p>
             Get personalized and SEO-Driven Blogs with eye-catching Website
@@ -141,7 +141,7 @@
         <div class="icon">
           <img src="../../Images/Assets/Services/Branding.png" alt="Branding" />
         </div>
-        <div class="content">
+        <div class="info">
           <h3>Branding.</h3>
           <p>Brand Revamp, Logo design, Brochure Design, Print Design etc..</p>
         </div>
@@ -275,7 +275,7 @@ h3 span {
   }
 }
 
-.item .content {
+.item .info {
   display: flex;
   flex-direction: column;
 }
